@@ -1,7 +1,4 @@
 ## Hi there 👋
-### Hi there, I'm Avaz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-
 <!--
 **devavaz/devavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
